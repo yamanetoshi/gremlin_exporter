@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+Export graph data to CSV format.
+"""
+
 import csv
 import argparse
 
